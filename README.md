@@ -37,3 +37,6 @@ python ./VaDE_test_reuters_all.py
 ```
 
 **Note**: the data preprocessing code for the Reuters dataset is taken from (https://github.com/piiswrong/dec).
+
+![Accuracy Graph](samples/accuracy.png)
+![Cluster Result](samples/cluster.png)
